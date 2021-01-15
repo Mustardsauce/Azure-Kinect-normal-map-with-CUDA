@@ -5,7 +5,7 @@ I've done a normal map generation from depth image(Azure kinect dk) with CUDA. I
 The normal map generation is based on Eigen value decomposition. It is very fast.
 
 # Environment
-- Azure kinect : <Color : [1280 x 720], Depth : [640 x 576]>
+- Azure kinect : <Depth : [640 x 576]>
 - OS : Windows 10 (NOT Linux)
 - IDE : Visual studio 2015 community
 - CPU : Intel(R) Core(TM) i7-9700K (3.60GHz)
